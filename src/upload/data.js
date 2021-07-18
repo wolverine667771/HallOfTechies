@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Manan Patel",
+    role: "Student",
+    image: "GITHUB PROFILE IMAGE LINK",
+    skills: ['js', 'react', 'node', 'react native'],
+    link: [
+      "https://github.com/Wolverine66771",
+      "https://linkedin.com/in/Executer4124",
+      "https://twitter.com/Wolverine4124",
+    ],
+  }
 ];
 
 export default data;
